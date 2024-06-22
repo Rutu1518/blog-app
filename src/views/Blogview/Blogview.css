@@ -1,0 +1,29 @@
+.selected-blog{
+    background-color: antiquewhite;
+    padding: 10px;
+    width: 400px;
+    height: auto;
+    border-radius:20px ;
+    font-size: 20px;
+   margin-left: 35%;
+   margin-top: 100px;
+   box-shadow: 0 0 10px rgba(0,0,0,0.1);
+   border: 1px solid rgba(0,0,0,0.1);
+}
+.selected-blog:hover{
+   box-shadow: 0 0 10px rgba(0,0,0,0.3);
+
+}
+
+.author-title{
+    font-size: 35px;
+}
+.author-avatar{
+    width: 50px;
+
+}
+.author-name-date{
+    margin-bottom:20px ;
+    font-size: 25px;
+
+}
